@@ -4,4 +4,5 @@
 
 
 #Link do site disponibilizado: https://ladingpagedesafio2024.netlify.app
+
 #Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1utZunjztVN7KFB7lb_M0QOsu-yeiCT4KFjtS6S0L8ac/edit?usp=drive_link
